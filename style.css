@@ -1,0 +1,17 @@
+
+#head {text-align: center;}
+#main {
+  width:450px;
+  height:600px;
+  background: linear-gradient(152deg, rgb(27, 0, 19) 0%, rgb(255, 95, 234) 100%);
+  margin:0 auto;
+  border-radius: 20px;
+}
+
+
+#main p {
+  color:#fff;
+  text-align: center;
+  font-size: 25px
+}
+#main p:first-child{padding-top: 120px}
